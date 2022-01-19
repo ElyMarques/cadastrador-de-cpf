@@ -1,0 +1,39 @@
+{
+"numeroNotaFiscal": "000011123334556678",
+"cnpjEmissor": "7376634554738377-09",
+"listaDeProdutos": [
+    {
+        "nome": "Camisa do Vasco",
+        "preco": 120
+    },
+    {
+        "nome": "Camisa do Flamengo",
+        "preco": 170
+    },
+
+    {"nome": "camisa retro",
+    "tipos": [ 
+        {"original": true, "preco": 170
+        },
+        {"original": false, "preco": 120}
+    ]
+        },
+]
+"valorTotal" 390
+    
+
+}
+
+
+{
+    "nome": "Ely Marques",
+    "cpf": "831.950.240-39",
+    "dataNascimento":"1999-05-25",
+    "casado": true,
+    "filhos": ["Mariana", "Natalia"],
+    "conjuge": {
+        "nome": "Erika",
+        "dataNascimento": "1999-05-24"
+    }
+}
+
